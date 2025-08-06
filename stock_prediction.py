@@ -7,7 +7,7 @@ from keras.models import Sequential, load_model
 from keras.layers import LSTM, Dense, Dropout
 from sklearn.preprocessing import MinMaxScaler
 
-st.set_page_config(page_title="Stock Price Prediction", layout="wide")
+st.set_page_config(page_title="Stock Price Prediction", layout="wide") 
 
 # ——— Helper: build LSTM model architecture ———
 def build_lstm_model(input_shape):
@@ -92,4 +92,5 @@ st.write("**Model:** LSTM")
 st.write("**Data:** TATA Global Beverages Limited (NSE)")
 st.write("**Note:** Uses past 60 days to predict next closing price.")
 st.write("**Disclaimer:** Predictions are for demo only. Always verify independently.")
+
 
