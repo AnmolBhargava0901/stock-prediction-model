@@ -1,4 +1,3 @@
-Absolutely! Here’s a **Ready-to-Use README.md** tailored for your TATA Global Beverages Stock Price Prediction project, based on the attached files and prior details.
 
 # TATA Global Beverages Stock Price Predictor
 
