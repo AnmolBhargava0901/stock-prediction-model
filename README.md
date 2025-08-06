@@ -11,6 +11,7 @@ This project demonstrates prediction of daily closing prices of **TATA Global Be
 - In-browser ML demo (no code changes required)
 - Clean, modular Python code ready for learning or extension
 
+<img width="1654" height="917" alt="prediction chart" src="https://github.com/user-attachments/assets/9bafd1a2-801d-4e1d-89f7-1c807854d95d" />
 
   
 
