@@ -7,7 +7,7 @@ from keras.models import load_model
 from sklearn.preprocessing import MinMaxScaler
 
 # Streamlit page config
-st.set_page_config(page_title="TATA Global Beverages Stock Predictor", layout="wide")
+st.set_page_config(page_title="TATA Global Beverages Stock Predictor", layout="wide")  
 
 # Constants
 MODEL_PATH = r"C:\Users\anmol\OneDrive\Desktop\all project\stock_model.h5"
@@ -89,3 +89,4 @@ st.write("**Model:** Pre-trained LSTM loaded from `stock_model.h5`")
 st.write("**Dataset:** TATA Global Beverages Limited (NSE)")
 st.write("**Window Size:** 60 days")
 st.write("**Disclaimer:** For demonstration only. Not financial advice.")
+
